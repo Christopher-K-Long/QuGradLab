@@ -1,0 +1,13 @@
+scipy == 1.* # Major version change may be backwards incompatible. See https://docs.scipy.org/doc/scipy/dev/core-dev/index.html#version-numbering
+numpy >= 1.21, < 3 # Major version change will likely indicate an ABI break. See https://numpy.org/doc/stable/dev/depending_on_numpy.html
+qugrad == 1.* # Follows semantic versioning. See https://qugrad.readthedocs.io
+py-ste == 1.* # Follows semantic versioning. See https://PySTE.readthedocs.io
+tensorflow == 2.* # Follows semantic versioning. See https://www.tensorflow.org/guide/versions
+
+furo
+cffconvert
+myst-parser
+sphinx_math_dollar
+sphinx_tabs
+sphinx-codeautolink
+git+https://github.com/bayashi-cl/stubdoc
