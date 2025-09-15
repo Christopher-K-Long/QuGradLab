@@ -1,5 +1,7 @@
 # QuGradLab
-An extension to the Python package [QuGrad](https://QuGrad.readthedocs.io) that implements common Hilbert space structures, Hamiltonians, and pulse shapes for quantum control.
+An extension to the Python package [QuGrad](https://QuGrad.readthedocs.io) ([doi:10.5281/zenodo.17116721](https://doi.org/10.5281/zenodo.17116721)) that implements common Hilbert space structures, Hamiltonians, and pulse shapes for quantum control.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17116725.svg)](https://doi.org/10.5281/zenodo.17116725)
 
 [![Unit Tests](https://github.com/Christopher-K-Long/QuGradLab/actions/workflows/test-python-package.yml/badge.svg)](https://github.com/Christopher-K-Long/QuGradLab/actions/workflows/test-python-package.yml)
 
@@ -22,8 +24,8 @@ conda install -c conda-forge libstdcxx-ng
 ### Requirements
 
 Requires:
-- [QuGrad](https://QuGrad.readthedocs.io)
-- [PySTE](https://PySTE.readthedocs.io)
+- [QuGrad](https://QuGrad.readthedocs.io) ([doi:10.5281/zenodo.17116721](https://doi.org/10.5281/zenodo.17116721))
+- [PySTE](https://PySTE.readthedocs.io) ([doi:10.5281/zenodo.17116431](https://doi.org/10.5281/zenodo.17116431))
 - [TensorFlow](https://www.tensorflow.org)
 - [NumPy](https://numpy.org)
 
