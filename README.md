@@ -45,4 +45,4 @@ Source code can be found at: [https://github.com/Christopher-K-Long/QuGradLab](h
 
 ## Version and Changes
 
-The current version is [`0.1.1`](ChangeLog.md#release-011). Please see the [Change Log](ChangeLog.md) for more details. QuGradLab uses [semantic versioning](https://semver.org/).
+The current version is [`0.1.2`](ChangeLog.md#release-012). Please see the [Change Log](ChangeLog.md) for more details. QuGradLab uses [semantic versioning](https://semver.org/).
