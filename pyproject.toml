@@ -6,10 +6,13 @@ build-backend = "hatchling.build"
 name = "qugradlab"
 version = "0.1.1"
 authors = [
-  { name="Christopher_K._Long", email="ckl45@cam.ac.uk" },
+  { name="Christopher K. Long", email="ckl45@cam.ac.uk" },
+  { name="Crispin H. W. Barnes" },
+  { name="David R. M. Arvidsson-Shukur" },
+  { name="Normann Mertig" }
 ]
 maintainers = [
-  { name="Christopher_K._Long", email="ckl45@cam.ac.uk" },
+  { name="Christopher K. Long", email="ckl45@cam.ac.uk" },
 ]
 description = "An extension to the Python package QuGrad that implements common Hilbert space structures, Hamiltonians, and pulse shapes for quantum control."
 keywords = ["quantum", "optimal", "control"]
