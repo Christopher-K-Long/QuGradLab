@@ -15,7 +15,7 @@ maintainers = [
   { name="Christopher K. Long", email="ckl45@cam.ac.uk" },
 ]
 description = "An extension to the Python package QuGrad that implements common Hilbert space structures, Hamiltonians, and pulse shapes for quantum control."
-keywords = ["quantum", "optimal", "control"]
+keywords = ["Hamiltonian", "pulse", "control"]
 readme = "README.md"
 requires-python = ">=3.9"
 classifiers = [
