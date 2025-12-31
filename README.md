@@ -1,9 +1,7 @@
 # QuGradLab
 An extension to the Python package [QuGrad](https://QuGrad.readthedocs.io) ([doi:10.5281/zenodo.17116721](https://doi.org/10.5281/zenodo.17116721)) that implements common Hilbert space structures, Hamiltonians, and pulse shapes for quantum control.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17116725.svg)](https://doi.org/10.5281/zenodo.17116725)
-
-[![Unit Tests](https://github.com/Christopher-K-Long/QuGradLab/actions/workflows/test-python-package.yml/badge.svg)](https://github.com/Christopher-K-Long/QuGradLab/actions/workflows/test-python-package.yml)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17116725.svg)](https://doi.org/10.5281/zenodo.17116725) [![SWH](https://archive.softwareheritage.org/badge/origin/https://doi.org/10.5281/zenodo.17116725/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://doi.org/10.5281/zenodo.17116725) [![Unit Tests](https://github.com/Christopher-K-Long/QuGradLab/actions/workflows/test-python-package.yml/badge.svg)](https://github.com/Christopher-K-Long/QuGradLab/actions/workflows/test-python-package.yml)
 
 ## Installation
 
@@ -37,11 +35,17 @@ Requires:
 
 ## Documentation
 
-Documentation including worked examples can be found at: [https://QuGradLab.readthedocs.io](https://QuGradLab.readthedocs.io)
+Documentation, including worked examples can be found at: [https://QuGradLab.readthedocs.io](https://QuGradLab.readthedocs.io)
 
 ## Source Code
 
 Source code can be found at: [https://github.com/Christopher-K-Long/QuGradLab](https://github.com/Christopher-K-Long/QuGradLab)
+
+A mirror can be found at: [https://gitlab.com/Christopher-K-Long/QuGradLab](https://gitlab.com/Christopher-K-Long/QuGradLab)
+
+Please submit all [pull requests](https://github.com/Christopher-K-Long/QuGradLab/pulls), [issues](https://github.com/Christopher-K-Long/QuGradLab/issues), [discussions](https://github.com/Christopher-K-Long/QuGradLab/discussions), and [vulnerability reports](https://github.com/Christopher-K-Long/QuGradLab/security) to the [GitHub](https://github.com/Christopher-K-Long/QuGradLab) repository.
+
+Releases from this repository are assigned DOIs and  can be found at [https://doi.org/10.5281/zenodo.17116725](https://doi.org/10.5281/zenodo.17116725). The DOI for all releases is [10.5281/zenodo.17116725](https://doi.org/10.5281/zenodo.17116725). Additionally, the releases are archived to [https://archive.softwareheritage.org/swh:1:dir:66eaab3efbc90a0188c5851565b6bfb663bbfe39](https://archive.softwareheritage.org/swh:1:dir:66eaab3efbc90a0188c5851565b6bfb663bbfe39).
 
 ## Version and Changes
 
